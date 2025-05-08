@@ -25,6 +25,7 @@ public class basicGrabCardMecanicForPC : MonoBehaviour
     [Header("Verificação de Slot")]
     public bool usarVerificacaoDeSlot = false;
     public string tagDoSlotCorreto = "SlotCorreto";
+    public string tagDoSlotIncorreto = "SlotErrado";
 
     private bool estaSendoArrastado = false;
     private bool travadoNoSlot = false;
@@ -101,6 +102,11 @@ public class basicGrabCardMecanicForPC : MonoBehaviour
                     transform.position = slot.transform.position;
                     travadoNoSlot = true;
                     return;
+                }
+
+                if (slot != null && slot.CompareTag(tagDoSlotIncorreto))
+                {
+                    FindFirstObjectByType<lifeScript>().PerderVida();
                 }
             }
 
