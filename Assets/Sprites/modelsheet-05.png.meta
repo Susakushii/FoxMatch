@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 17f2eabfe98641249922a0b010c5f710
+guid: 31468596e39e51f4eab30a65760fe18b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2681979231726556004
-    second: FullLife_0
+      213: 8099368453588014332
+    second: modelsheet-05_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FullLife_0
+      name: modelsheet-05_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 41
-        width: 456
-        height: 418
+        x: 416
+        y: 303
+        width: 3331
+        height: 3512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 463590ac6ed483520800000000000000
-      internalID: 2681979231726556004
+      spriteID: cf45e1d32bcb66070800000000000000
+      internalID: 8099368453588014332
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FullLife_0: 2681979231726556004
+      modelsheet-05_0: 8099368453588014332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

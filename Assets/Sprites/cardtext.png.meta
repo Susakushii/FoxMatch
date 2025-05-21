@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 17f2eabfe98641249922a0b010c5f710
+guid: cf7ad1bb551bfb94782ee8749eaefeaa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2681979231726556004
-    second: FullLife_0
+      213: -5610494154135147238
+    second: cardtext_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FullLife_0
+      name: cardtext_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 41
-        width: 456
-        height: 418
+        x: 752
+        y: 175
+        width: 2662
+        height: 4161
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 463590ac6ed483520800000000000000
-      internalID: 2681979231726556004
+      spriteID: a1d6e50ea458322b0800000000000000
+      internalID: -5610494154135147238
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FullLife_0: 2681979231726556004
+      cardtext_0: -5610494154135147238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 17f2eabfe98641249922a0b010c5f710
+guid: 6773ba5dd0564564fbad244d9c2adf3b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2681979231726556004
-    second: FullLife_0
+      213: 6740286360213671558
+    second: cards-05_0
+  - first:
+      213: 7756971748116447471
+    second: cards-05_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,23 +142,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FullLife_0
+      name: cards-05_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 41
-        width: 456
-        height: 418
+        x: 481
+        y: 2337
+        width: 1120
+        height: 1493
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 463590ac6ed483520800000000000000
-      internalID: 2681979231726556004
+      spriteID: a06ac45f986b25b4eabd671f9ea6e914
+      internalID: 125112900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards-05_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 398
+        width: 1182
+        height: 1558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857501f8a901fb4b8aa3e7b3d31cf58
+      internalID: -1915132834
       vertices: []
       indices: 
       edges: []
@@ -164,7 +189,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: da450d4e90aebb8408a4a7039d9259d8
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +199,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FullLife_0: 2681979231726556004
+      cards-05_0: 125112900
+      cards-05_1: -1915132834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
