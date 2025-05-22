@@ -4,7 +4,7 @@ using System.Collections;
 
 public class lifeScript : MonoBehaviour
 {
-    public Image[] vidas; // arraste os 3 diamantes aqui no inspetor
+    public Image[] vidas; // arraste os 3 coracoes aqui no inspetor
     public Sprite vidaNormal;
     public Sprite vidaPerdida;
 

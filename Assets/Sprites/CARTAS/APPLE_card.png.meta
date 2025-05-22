@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de2be33b1a4d0df4896ae52be2e44477
+guid: 1b0b77a9429796d4487613e922f4a460
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1730531338672372617
-    second: United StatesBG_0
+      213: -4799510242692167099
+    second: APPLE_card_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: United StatesBG_0
+      name: APPLE_card_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1536
+        width: 2070
+        height: 2925
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 77480cd8aeaebf7e0800000000000000
-      internalID: -1730531338672372617
+      spriteID: 54a0c78fcd6b46db0800000000000000
+      internalID: -4799510242692167099
       vertices: []
       indices: 
       edges: []
@@ -164,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      United StatesBG_0: -1730531338672372617
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

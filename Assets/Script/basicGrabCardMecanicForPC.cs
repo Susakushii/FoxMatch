@@ -107,6 +107,7 @@ public class basicGrabCardMecanicForPC : MonoBehaviour
                 if (slot != null && slot.CompareTag(tagDoSlotIncorreto))
                 {
                     FindFirstObjectByType<lifeScript>().PerderVida();
+                    Destroy(gameObject);  // Destroi a carta imediatamente
                 }
             }
 
@@ -152,5 +153,10 @@ public class basicGrabCardMecanicForPC : MonoBehaviour
                                           areaPermitida.y + areaPermitida.height / 2, 0),
                                new Vector3(areaPermitida.width, areaPermitida.height, 1));
         }
+    }
+
+    public void AtualizarPosicaoInicial(Vector3 novaPosicao)
+    {
+        posicaoInicial = novaPosicao;
     }
 }
