@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: b80c9ee95e055154c9476f75a1656c08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 277350790998139113
+    second: LineMap_0
+  - first:
+      213: 148227751218482973
+    second: LineMap_1
+  - first:
+      213: 808272834973698761
+    second: LineMap_2
+  - first:
+      213: -3694083203612196295
+    second: LineMap_3
+  - first:
+      213: -4292811459221751530
+    second: LineMap_4
+  - first:
+      213: 3779030275163264687
+    second: LineMap_5
+  - first:
+      213: -866179110011370649
+    second: LineMap_6
+  - first:
+      213: -4204191353992187674
+    second: LineMap_7
+  - first:
+      213: -7312350272380615369
+    second: LineMap_8
+  - first:
+      213: 7115840983250809060
+    second: LineMap_9
+  - first:
+      213: -8805397692736849233
+    second: LineMap_10
+  - first:
+      213: 1777692813506842188
+    second: LineMap_11
+  - first:
+      213: -3927487992606901301
+    second: LineMap_12
+  - first:
+      213: -9043531352601217227
+    second: LineMap_13
+  - first:
+      213: -3560555874778776717
+    second: LineMap_14
+  - first:
+      213: 5194861356710755065
+    second: LineMap_15
+  - first:
+      213: -4462310539274076283
+    second: LineMap_16
+  - first:
+      213: 8275478509300126650
+    second: LineMap_17
+  - first:
+      213: 6477028735189546421
+    second: LineMap_18
+  - first:
+      213: 1915230596401172653
+    second: LineMap_19
+  - first:
+      213: -685129336199551506
+    second: LineMap_20
+  - first:
+      213: 5436062455098113312
+    second: LineMap_21
+  - first:
+      213: -8565712658705407609
+    second: LineMap_22
+  - first:
+      213: 3899879243140518853
+    second: LineMap_23
+  - first:
+      213: -2882298476512246412
+    second: LineMap_24
+  - first:
+      213: 2057348355634658171
+    second: LineMap_25
+  - first:
+      213: 3017572621971320391
+    second: LineMap_26
+  - first:
+      213: -5186561521701265760
+    second: LineMap_27
+  - first:
+      213: -772790771439674422
+    second: LineMap_28
+  - first:
+      213: 3212518526667095681
+    second: LineMap_29
+  - first:
+      213: 7915910174956303312
+    second: LineMap_30
+  - first:
+      213: 2727936488492590910
+    second: LineMap_31
+  - first:
+      213: -3554572327163647038
+    second: LineMap_32
+  - first:
+      213: -5215482455574336418
+    second: LineMap_33
+  - first:
+      213: -4947757463389354744
+    second: LineMap_34
+  - first:
+      213: 6208072545796138519
+    second: LineMap_35
+  - first:
+      213: -6307350311557877324
+    second: LineMap_36
+  - first:
+      213: -5032159596462326885
+    second: LineMap_37
+  - first:
+      213: 5779320334852113350
+    second: LineMap_38
+  - first:
+      213: 3438225154661557557
+    second: LineMap_39
+  - first:
+      213: -6402672520574953177
+    second: LineMap_40
+  - first:
+      213: 6370584399121694714
+    second: LineMap_41
+  - first:
+      213: 3351298584785400141
+    second: LineMap_42
+  - first:
+      213: 1415320211650696881
+    second: LineMap_43
+  - first:
+      213: -6483722493466897870
+    second: LineMap_44
+  - first:
+      213: -2337070953239351711
+    second: LineMap_45
+  - first:
+      213: 3652421316540333549
+    second: LineMap_46
+  - first:
+      213: -5225177192481191508
+    second: LineMap_47
+  - first:
+      213: 2076131771483413292
+    second: LineMap_48
+  - first:
+      213: -8300408877677065204
+    second: LineMap_49
+  - first:
+      213: -7158187498851294519
+    second: LineMap_50
+  - first:
+      213: -5691144336080535336
+    second: LineMap_51
+  - first:
+      213: -3533662352316247992
+    second: LineMap_52
+  - first:
+      213: -4954889377953897428
+    second: LineMap_53
+  - first:
+      213: -1076625885985902013
+    second: LineMap_54
+  - first:
+      213: -4181063849046047363
+    second: LineMap_55
+  - first:
+      213: 687803696343907234
+    second: LineMap_56
+  - first:
+      213: -3957062209501230406
+    second: LineMap_57
+  - first:
+      213: -5127887209663239521
+    second: LineMap_58
+  - first:
+      213: 826309921739124339
+    second: LineMap_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LineMap_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3257
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e02e9f231959d300800000000000000
+      internalID: 277350790998139113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3249
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8b39ba5c9e0200800000000000000
+      internalID: 148227751218482973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3232
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca843a6cdf873b00800000000000000
+      internalID: 808272834973698761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3204
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93245fdf5eafbbcc0800000000000000
+      internalID: -3694083203612196295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3169
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6197c5dd8bedc64c0800000000000000
+      internalID: -4292811459221751530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3127
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69d8a5300d17430800000000000000
+      internalID: 3779030275163264687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3077
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76388eb40b6baf3f0800000000000000
+      internalID: -866179110011370649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3024
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0f6810d36b7a5c0800000000000000
+      internalID: -4204191353992187674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_8
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2967
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735c5857b20558a90800000000000000
+      internalID: -7312350272380615369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2926
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b4d44cab80c260800000000000000
+      internalID: 7115840983250809060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2745
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa30629371fcc580800000000000000
+      internalID: -8805397692736849233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2753
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e07dcf132aba810800000000000000
+      internalID: 1777692813506842188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2700
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbbd0dba72ce79c0800000000000000
+      internalID: -3927487992606901301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2728
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b815462cee7280800000000000000
+      internalID: -9043531352601217227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2665
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b71e8eb4d569ec0800000000000000
+      internalID: -3560555874778776717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2623
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faf52061ead71840800000000000000
+      internalID: 5194861356710755065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2573
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f3615f430b212c0800000000000000
+      internalID: -4462310539274076283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2520
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3963ddbd768d270800000000000000
+      internalID: 8275478509300126650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2463
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b578f0615703e950800000000000000
+      internalID: 6477028735189546421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2422
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da093718414449a10800000000000000
+      internalID: 1915230596401172653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2257
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee560aaaf7eed76f0800000000000000
+      internalID: -685129336199551506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2249
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df5fc5006c07b40800000000000000
+      internalID: 5436062455098113312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2232
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812cc158b9702980800000000000000
+      internalID: -8565712658705407609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2204
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c35f4a52872f1630800000000000000
+      internalID: 3899879243140518853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_24
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2169
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47586d28ec40008d0800000000000000
+      internalID: -2882298476512246412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2127
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b76dcdd6b2d8c10800000000000000
+      internalID: 2057348355634658171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_26
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2077
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e6b88df4290e920800000000000000
+      internalID: 3017572621971320391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_27
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2024
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae594d86c1a508b0800000000000000
+      internalID: -5186561521701265760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1967
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb53a643ee7645f0800000000000000
+      internalID: -772790771439674422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1926
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e7a505498259c20800000000000000
+      internalID: 3212518526667095681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_30
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1743
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3bb242d56fadd60800000000000000
+      internalID: 7915910174956303312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_31
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1751
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e376d6678c39bd520800000000000000
+      internalID: 2727936488492590910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1698
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb2af62d4f9baec0800000000000000
+      internalID: -3554572327163647038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1726
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca537e652ee97b0800000000000000
+      internalID: -5215482455574336418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1663
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c3e72dc8065bb0800000000000000
+      internalID: -4947757463389354744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1621
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a800b611872650800000000000000
+      internalID: 6208072545796138519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1571
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b4a53f4ac778a0800000000000000
+      internalID: -6307350311557877324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1518
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b3acf228d2a2ab0800000000000000
+      internalID: -5032159596462326885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1461
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34d027935443050800000000000000
+      internalID: 5779320334852113350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1420
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5352a69cf8707bf20800000000000000
+      internalID: 3438225154661557557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_40
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1244
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72999fde3432527a0800000000000000
+      internalID: -6402672520574953177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_41
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1236
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3b4912ccd86850800000000000000
+      internalID: 6370584399121694714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1219
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4137629e44328e20800000000000000
+      internalID: 3351298584785400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_43
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1191
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6dedadb3a34a310800000000000000
+      internalID: 1415320211650696881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_44
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1156
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23212b29eb03506a0800000000000000
+      internalID: -6483722493466897870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1114
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee841b95e019fd0800000000000000
+      internalID: -2337070953239351711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_46
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1064
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded737606d100b230800000000000000
+      internalID: 3652421316540333549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_47
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1011
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca98fa117017c77b0800000000000000
+      internalID: -5225177192481191508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_48
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 954
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bdb2aa8d6efcc10800000000000000
+      internalID: 2076131771483413292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_49
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 913
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4f8b6a160fcc80800000000000000
+      internalID: -8300408877677065204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_50
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 713
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2a35f356209ac90800000000000000
+      internalID: -7158187498851294519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 721
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0817a116ef401b0800000000000000
+      internalID: -5691144336080535336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 668
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d40e00d8e5fec0800000000000000
+      internalID: -3533662352316247992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 696
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a3b5ec52bc3bb0800000000000000
+      internalID: -4954889377953897428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 633
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342f1ddf57e0f01f0800000000000000
+      internalID: -1076625885985902013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 591
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75026ed490e9f5c0800000000000000
+      internalID: -4181063849046047363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_56
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 541
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab77c351d19b8900800000000000000
+      internalID: 687803696343907234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 488
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8e88c2e0b519c0800000000000000
+      internalID: -3957062209501230406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 431
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae0c360c516d8b0800000000000000
+      internalID: -5127887209663239521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LineMap_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 390
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e24afee74a77b00800000000000000
+      internalID: 826309921739124339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LineMap_0: 277350790998139113
+      LineMap_1: 148227751218482973
+      LineMap_10: -8805397692736849233
+      LineMap_11: 1777692813506842188
+      LineMap_12: -3927487992606901301
+      LineMap_13: -9043531352601217227
+      LineMap_14: -3560555874778776717
+      LineMap_15: 5194861356710755065
+      LineMap_16: -4462310539274076283
+      LineMap_17: 8275478509300126650
+      LineMap_18: 6477028735189546421
+      LineMap_19: 1915230596401172653
+      LineMap_2: 808272834973698761
+      LineMap_20: -685129336199551506
+      LineMap_21: 5436062455098113312
+      LineMap_22: -8565712658705407609
+      LineMap_23: 3899879243140518853
+      LineMap_24: -2882298476512246412
+      LineMap_25: 2057348355634658171
+      LineMap_26: 3017572621971320391
+      LineMap_27: -5186561521701265760
+      LineMap_28: -772790771439674422
+      LineMap_29: 3212518526667095681
+      LineMap_3: -3694083203612196295
+      LineMap_30: 7915910174956303312
+      LineMap_31: 2727936488492590910
+      LineMap_32: -3554572327163647038
+      LineMap_33: -5215482455574336418
+      LineMap_34: -4947757463389354744
+      LineMap_35: 6208072545796138519
+      LineMap_36: -6307350311557877324
+      LineMap_37: -5032159596462326885
+      LineMap_38: 5779320334852113350
+      LineMap_39: 3438225154661557557
+      LineMap_4: -4292811459221751530
+      LineMap_40: -6402672520574953177
+      LineMap_41: 6370584399121694714
+      LineMap_42: 3351298584785400141
+      LineMap_43: 1415320211650696881
+      LineMap_44: -6483722493466897870
+      LineMap_45: -2337070953239351711
+      LineMap_46: 3652421316540333549
+      LineMap_47: -5225177192481191508
+      LineMap_48: 2076131771483413292
+      LineMap_49: -8300408877677065204
+      LineMap_5: 3779030275163264687
+      LineMap_50: -7158187498851294519
+      LineMap_51: -5691144336080535336
+      LineMap_52: -3533662352316247992
+      LineMap_53: -4954889377953897428
+      LineMap_54: -1076625885985902013
+      LineMap_55: -4181063849046047363
+      LineMap_56: 687803696343907234
+      LineMap_57: -3957062209501230406
+      LineMap_58: -5127887209663239521
+      LineMap_59: 826309921739124339
+      LineMap_6: -866179110011370649
+      LineMap_7: -4204191353992187674
+      LineMap_8: -7312350272380615369
+      LineMap_9: 7115840983250809060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
