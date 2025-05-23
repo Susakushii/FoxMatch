@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEditor.SearchService;
 
 public class lifeScript : MonoBehaviour
 {
@@ -17,11 +18,14 @@ public class lifeScript : MonoBehaviour
 
     public void PerderVida()
     {
-        if (vidaAtual <= 0) return;
-
-        vidaAtual--;
-        shakeCameraScript.instancia.Tremer(0.1f, 0.3f); // intensidade e duração
-        StartCoroutine(AnimarVidaPerdida(vidas[vidaAtual]));
+        if (vidaAtual <= 1)
+        {
+            Debug.Log("O silencio venceu"); //substituir por tela de perdeu
+        } else {
+            vidaAtual--;
+            shakeCameraScript.instancia.Tremer(0.1f, 0.3f); // intensidade e duração
+            StartCoroutine(AnimarVidaPerdida(vidas[vidaAtual]));
+            }
     }
 
     private IEnumerator AnimarVidaPerdida(Image imagemVida)

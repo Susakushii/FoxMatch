@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Collider2D))]
 public class basicGrabCardMecanicForPC : MonoBehaviour
@@ -34,6 +35,8 @@ public class basicGrabCardMecanicForPC : MonoBehaviour
     private Vector3 posicaoInicial;
     private Vector3 offset;
     private Vector3 escalaOriginal;
+
+    public string proximonivel;
 
     private float tempoSegurando = 0f;
 
@@ -101,13 +104,13 @@ public class basicGrabCardMecanicForPC : MonoBehaviour
                 {
                     transform.position = slot.transform.position;
                     travadoNoSlot = true;
-                    return;
+                    //nao lembro como faz o wait
+                    SceneManager.LoadScene(proximonivel);
                 }
 
                 if (slot != null && slot.CompareTag(tagDoSlotIncorreto))
                 {
                     FindFirstObjectByType<lifeScript>().PerderVida();
-                    Destroy(gameObject);  // Destroi a carta imediatamente
                 }
             }
 
