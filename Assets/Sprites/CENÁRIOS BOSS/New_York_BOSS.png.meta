@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      New_York_BOSS_0: -1633424108991390419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

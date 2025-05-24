@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BREAK THE ICE_card_0: 3656571499888584761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

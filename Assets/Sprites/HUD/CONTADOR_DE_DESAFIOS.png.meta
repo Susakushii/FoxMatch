@@ -273,7 +273,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CONTADOR_DE_DESAFIOS_0: -2224065033322943308
+      CONTADOR_DE_DESAFIOS_1: 2901162794512192670
+      CONTADOR_DE_DESAFIOS_2: 7421410137202875096
+      CONTADOR_DE_DESAFIOS_3: 3043094929778749855
+      CONTADOR_DE_DESAFIOS_4: -3366129075134807115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "BOT\xC3O_SLIDER_DAS_CARTAS_0": 6152405063036788117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

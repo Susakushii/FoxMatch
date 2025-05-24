@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "MARCA\xC7\xC3O_DE_DESAFIO_VENCIDO_0": 6675479385947383814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

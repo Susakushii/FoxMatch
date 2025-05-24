@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HAPPY_card_0: -5413640541724977210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

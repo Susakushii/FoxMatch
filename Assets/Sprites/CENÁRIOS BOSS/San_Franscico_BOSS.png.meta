@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      San_Franscico_BOSS_0: -177899888647391074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

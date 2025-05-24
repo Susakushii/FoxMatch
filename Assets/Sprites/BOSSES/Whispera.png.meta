@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Whispera_0: 1730415097055575417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
