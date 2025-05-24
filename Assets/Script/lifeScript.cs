@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 using UnityEditor.SearchService;
@@ -20,7 +21,7 @@ public class lifeScript : MonoBehaviour
     {
         if (vidaAtual <= 1)
         {
-            Debug.Log("O silencio venceu"); //substituir por tela de perdeu
+            SceneManager.LoadScene("GameOver");
         } else {
             vidaAtual--;
             shakeCameraScript.instancia.Tremer(0.1f, 0.3f); // intensidade e duração

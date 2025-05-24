@@ -641,6 +641,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &496085650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -979,6 +980,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &594703138
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1327,6 +1329,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &688019644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1551,6 +1554,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &780902243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1814,6 +1818,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: SlotCorreto
   tagDoSlotIncorreto: 
+  proximonivel: 
 --- !u!114 &969019921
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2202,6 +2207,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: SlotCorreto
   tagDoSlotIncorreto: 
+  proximonivel: 
 --- !u!114 &1258565568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2501,6 +2507,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &1346578606
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3019,6 +3026,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &1487938101
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3323,6 +3331,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &1633342147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3905,7 +3914,7 @@ Transform:
   m_GameObject: {fileID: 2063136450}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.87, y: 0.47, z: 0}
+  m_LocalPosition: {x: -0.27, y: 0.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4171,6 +4180,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: 
   tagDoSlotIncorreto: SlotCorreto
+  proximonivel: 
 --- !u!114 &2126556684
 MonoBehaviour:
   m_ObjectHideFlags: 0

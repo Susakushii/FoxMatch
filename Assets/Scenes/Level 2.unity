@@ -1893,7 +1893,7 @@ MonoBehaviour:
   usarVerificacaoDeSlot: 1
   tagDoSlotCorreto: SlotCorreto
   tagDoSlotIncorreto: 
-  proximonivel: Level3
+  proximonivel: Level 3
 --- !u!114 &1052904510
 MonoBehaviour:
   m_ObjectHideFlags: 0
