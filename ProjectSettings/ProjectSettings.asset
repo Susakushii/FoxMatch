@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: My project
+  companyName: Seila
+  productName: Fox Match
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -142,6 +142,8 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0.2
   preloadedAssets:
+  - {fileID: 11400000, guid: 874a826fb9da02c4685d3eaa58989a14, type: 2}
+  - {fileID: 11400000, guid: 89acaf42d614cbd409af746f91b3c767, type: 2}
   - {fileID: 7479333886127355216, guid: 87d3121a0903b8a4bb3303c6c67e7b15, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -799,7 +801,13 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -821,11 +829,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 14b8447b-ae12-439d-a2f1-8a88131c7435
+  cloudProjectId: 18b5a925-baa5-4963-966c-ceeea7ca2e17
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FoxMatch
-  organizationId: vampiraogamer
+  projectName: Fox Match
+  organizationId: yasmintoledo2013
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

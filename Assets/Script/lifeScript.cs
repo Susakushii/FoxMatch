@@ -2,7 +2,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
+#if UNITY_EDITOR
+using UnityEditor;
 using UnityEditor.SearchService;
+#endif
 
 public class lifeScript : MonoBehaviour
 {
